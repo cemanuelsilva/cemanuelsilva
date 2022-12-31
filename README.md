@@ -27,7 +27,7 @@
 
 ##
   
-  <div>
+  <div style="display: inline_block"><cbr>
   <a href="https://github.com/cemanuelsilva">
   <img height="150cm"  src="https://github-readme-stats.vercel.app/api?username=Cemanuelsilva&show_icons=true&theme=radical" />
   <img height="150cm"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cemanuelsilva&layout=compact&theme=radical" />
