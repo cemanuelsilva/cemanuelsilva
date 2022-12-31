@@ -6,7 +6,7 @@
 - 📫 How to reach me? Here´s my contact! carlosdacunhapro@gmail.com.
 - 🎮 My hobbies are playing/creating games and watch some japanese content.
 
-## LANGUAGES AND TOOLS
+## Languages and tools
 
 <div style="display: inline_block"><cbr>
   <img align="center" height="100" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
@@ -25,7 +25,7 @@
  
  
 
-##
+## Github stats
   
   <div style="display: inline_block"><cbr>
   <a href="https://github.com/cemanuelsilva">
