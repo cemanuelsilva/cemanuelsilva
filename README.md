@@ -20,7 +20,7 @@
 | [Dodo's Great Escape: Lab Breakout](https://cemanuelsilva.itch.io/dodos-great-escape-lab-breakout)  | [Unstable-G](https://cemanuelsilva.itch.io/unstable-g) | [Shape-Shift Snacker: A Slimy Adventure](https://cemanuelsilva.itch.io/shape-shift-snacker-a-slimy-adventure) |
 | ------------- | ------------- | ----------- | 
 | <img src="https://github.com/cemanuelsilva/cemanuelsilva/assets/81260227/90413569-8ca7-45c0-8458-0d4166fcaaab"  width="400" height="200"/> | <img src="https://github.com/cemanuelsilva/cemanuelsilva/assets/81260227/ec2d0f60-7963-4857-bb5d-f2007280e245"  width="350" height="200"/> | <img src="https://github.com/cemanuelsilva/cemanuelsilva/assets/81260227/43ea62c2-d01e-45be-be7a-f12eaf573c90"  width="350" height="200"/> |
-| It's time to take flight in "Dodo's Great Escape: Lab Breakout". Get ready to run, jump, and flap your way to freedom! Are you up for the challenge?  | Embark on a journey through the shadows in "Unstable-G".  |A 2D Platformer game developed by me and [@heldergomesramos](https://github.com/heldergomesramos) in 33 hours for a Game Jam. Won First Place!
+| A 2D platformer game I developed where you control a Dodo trying to escape a lab! | A 2D Platformer game I developed for a 48h Game Jam!  | A 2D Platformer game developed by me and [@heldergomesramos](https://github.com/heldergomesramos) in 33 hours for a Game Jam. Won First Place!
 
 
 
